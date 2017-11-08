@@ -7,5 +7,5 @@ Raspberry Pi's, arduino's, Alexas all require and integrate web interface for th
 
 I needed to adapt to the IoT industry as soon as possible in order to incorporate the web into our electronics. Having the potential of IoT means that more varied devices are going to be loading the content to and from the web. 
 
-Responsive CSS, dynamic web pages using clean DOM scripting, Adopting web standards, accessibility standards and test easibliity is a necessary skill for IoT developers as they will need to envision how web 
+Responsive CSS, dynamic web pages using clean DOM scripting, Adopting web standards, accessibility standards and test easibliity is a necessary skill for IoT developers. 
 
