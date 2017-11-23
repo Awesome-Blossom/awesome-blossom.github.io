@@ -6,4 +6,4 @@ feature-img: "img/color.png"
 hide: true
 ---
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+Thank you for taking your time to send me a message. I usually check my e-mail every now and then. You will get a response back within 24 hours. Thanks and have a good day!
