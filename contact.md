@@ -2,16 +2,22 @@
 layout: page
 title: Contact
 permalink: /contact/
-feature-img: "img/color.png"
+feature-img: "img/contact.png"
 ---
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+Contact me if you have any questions!
 
-<form action="https://getsimpleform.com/messages?form_api_token=_yourtoken_" method="post">
+<form action="https://getsimpleform.com/messages?form_api_token=45826a171792c34a64140b67bd112b1b" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='http://bloc.github.io/portfolio-iro/thank-you/' />
+  <input type='hidden' name='redirect_to' value='https://Awesome-Blossom.github.io/thank-you/'/>
   <input type='text' name='name' placeholder='Your Full Name' />
+  <br>
+  <br>
   <input type='email' name='email' placeholder='Your E-mail Address' />
-  <textarea name='message' placeholder='Write your message ...'></textarea>
+  <br>
+  <br>
+  <textarea name='message' placeholder='Write your message here...'></textarea>
+  <br>
+  <br>
   <input type='submit' value='Send Message' />
 </form>

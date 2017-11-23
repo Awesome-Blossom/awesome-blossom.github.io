@@ -19,20 +19,19 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "acvarg@gmail.com"
   behance:
   bitbucket:
-  dribbble: "joeykirk"
-  facebook: "joeykirk"
+  facebook: "https://www.facebook.com/abey.varghese.75"
   flickr:
-  github: "madebymunsters/type-theme"
-  google_plus:
+  github: "https://github.com/Awesome-Blossom/"
+  google_plus: "https://plus.google.com/u/0/+AbeyVarghese_AB"
   instagram: "joeykirk"
-  linkedin:  # Full URL
+  linkedin:  "https://www.linkedin.com/in/abey-varghese-775b6950/"
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange: "https://stackexchange.com/users/6603843/user5101226"
   steam:
   tumblr:
   twitter: "joeykirk"
@@ -40,7 +39,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-110117065-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
